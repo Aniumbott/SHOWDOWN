@@ -6,7 +6,7 @@ A clone of Disney+ UI using simple HTML/CSS and JS.
 - [ ] Pages of menu items.
 - [ ] Customization.
 - [ ] Saparate page of each item.
-- [ ] Sign Up/Sign Up.
+- [ ] Sign Up/Sign In.
 - [ ] Donate.
 ---
 Checkout website [here](https://aniumbott.github.io/SHOWDOWN/).
