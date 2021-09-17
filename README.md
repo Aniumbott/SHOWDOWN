@@ -1,5 +1,5 @@
 # SHOWDOWN
-A clone of Disney+ using simple HTML/CSS and JS.
+A clone of Disney+ UI using simple HTML/CSS and JS.
 # To-Do list :
 - [x] Home Page aka prototype.
 - [ ] Responssive menu.
